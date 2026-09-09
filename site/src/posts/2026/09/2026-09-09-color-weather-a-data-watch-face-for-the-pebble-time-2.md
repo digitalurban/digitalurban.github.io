@@ -35,7 +35,7 @@ hero: "/assets/uploads/2026/09/color-weather-pebble-time-2.png"
 <p>Same workflow as before - CloudPebble, VS Code in the browser and Copilot doing the heavy lifting on the C. Data is <a href="https://open-meteo.com/en/docs" target="_blank" rel="noopener">Open-Meteo</a> again, free and no key needed, with city names from Nominatim reverse geocoding and steps from Pebble's Health API. Everything refreshes every 15 minutes.</p>
 <h2>Available Now</h2>
 <ul>
- 	<li><strong><a href="https://apps.repebble.com/color-weather_9c6ae3e3f93845168d890af1" target="_blank" rel="noopener">Color Weather on the Pebble Appstore</a></strong> - Pebble Time 2, currently version 2.0</li>
+ 	<li><strong><a href="https://apps.repebble.com/color-weather_9c6ae3e3f93845168d890af1" target="_blank" rel="noopener">Color Weather on the Pebble Appstore</a></strong> - Pebble Time 2, currently version 2.1</li>
  	<li><strong><a href="https://github.com/digitalurban/color-weather-pebble" target="_blank" rel="noopener">Source and .pbw on GitHub</a></strong></li>
 </ul>
 <p>The mono version lives on for the Pebble 2 Duo - <a href="https://apps.rebble.io/en_US/application/69034d22d004720008412cf1" target="_blank" rel="noopener">Just Weather is still on the Rebble Appstore</a> - but if you have a Time 2, this is the one I wear...</p>
