@@ -5,7 +5,7 @@ slug: "color-weather-a-data-watch-face-for-the-pebble-time-2"
 permalink: "/blog/2026/09/09/color-weather-a-data-watch-face-for-the-pebble-time-2/"
 author: "Andy"
 categories: ["Apps"]
-tags: ["copilot", "Data", "github", "Pebble Watch", "Weather"]
+tags: ["claude", "copilot", "Data", "github", "Pebble Watch", "Weather"]
 excerpt: "Last October I made Just Weather, a black and white data face for the 144x168 screen of the Pebble 2 Duo. It did the job, but the Pebble Time 2, with its 200x228 screen and 64 colours was perfect for perhaps the next step…"
 hero: "/assets/uploads/2026/09/color-weather-pebble-time-2.png"
 ---
@@ -31,8 +31,9 @@ hero: "/assets/uploads/2026/09/color-weather-pebble-time-2.png"
 </ul>
 <p>On top of the colour sits the usual data - time and a condition icon, city and temperature, conditions, pressure in millibars with its three hour trend, wind, rainfall, UV, and the day's step count and distance.</p>
 <p>The face also keeps a rolling history and compares now against roughly three hours ago. A fall of 4 hPa or more puts <strong>Storm Warning</strong> on the screen, 6 hPa or more escalates it to <strong>Severe Storm</strong>, and the watch buzzes once when a warning first appears.</p>
-<h2>Built with Copilot Again</h2>
-<p>Same workflow as before - CloudPebble, VS Code in the browser and Copilot doing the heavy lifting on the C. Data is <a href="https://open-meteo.com/en/docs" target="_blank" rel="noopener">Open-Meteo</a> again, free and no key needed, with city names from Nominatim reverse geocoding and steps from Pebble's Health API. Everything refreshes every 15 minutes.</p>
+<h2>From Copilot to Claude</h2>
+<p>Same workflow as before - CloudPebble and VS Code in the browser - but not the same model. Just Weather and the first version of this one were built with Copilot. The later work moved to Claude, and the difference showed less in writing the code than in reading it: the condition-icon font was being compiled with seven glyphs while the C referenced ten, so thunderstorm and both night icons had been silently blank since June. Nobody would report that as a bug. It only turned up by counting one file against another.</p>
+<p>Data is <a href="https://open-meteo.com/en/docs" target="_blank" rel="noopener">Open-Meteo</a> again, free and no key needed, with city names from Nominatim reverse geocoding and steps from Pebble's Health API. Everything refreshes every 15 minutes.</p>
 <h2>Available Now</h2>
 <ul>
  	<li><strong><a href="https://apps.repebble.com/color-weather_9c6ae3e3f93845168d890af1" target="_blank" rel="noopener">Color Weather on the Pebble Appstore</a></strong> - Pebble Time 2, currently version 2.3</li>
