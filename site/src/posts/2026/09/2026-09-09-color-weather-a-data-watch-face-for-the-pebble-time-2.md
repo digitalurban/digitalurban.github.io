@@ -18,16 +18,16 @@ hero: "/assets/uploads/2026/09/color-weather-pebble-time-2.png"
 <p>The idea is simple enough, and builds on a <a href="https://www.digitalurban.org/mqtt-weather/">web based dashboard</a> built over 10 years ago with a background set using the outside temperature.</p>
 <figure class="wp-block-image size-large"><img src="/assets/uploads/2026/09/mqtt-weather-dashboard.png" alt="The MQTT weather dashboard, background set by the outside temperature" />
 <figcaption>The original dashboard - same idea, rather more room for it.</figcaption></figure>
-<p>The concept is same, but on a much smaller screen - the background is the temperature. Dark navy for a freeze, light blue for a cold morning, through yellow and green in the mild middle, into orange and then red when it's genuinely hot.</p>
+<p>The concept is same, but on a much smaller screen - the background is the temperature. Dark navy for a freeze, cobalt blue for a cold morning, through teal and a deep green in the mild middle, into tan and then a dark red when it's genuinely hot. Muted rather than bright - the duller palette turned out to work better on the watch.</p>
 <figure class="wp-block-image size-large"><img src="/assets/uploads/2026/09/color-weather-temperature-bands.png" alt="The six Color Weather background bands and their hex values" />
 <figcaption>The six background bands and their hex values.</figcaption></figure>
 <ul>
- 	<li>Below 0°C - <code>#000055</code></li>
- 	<li>0 to 9°C - <code>#55AAFF</code></li>
- 	<li>10 to 14°C - <code>#FFFF55</code></li>
- 	<li>15 to 19°C - <code>#00AA00</code></li>
- 	<li>20 to 24°C - <code>#FF5500</code></li>
- 	<li>25°C and above - <code>#FF0000</code></li>
+ 	<li>Below 0°C - <code>#000055</code> Oxford Blue</li>
+ 	<li>0 to 9°C - <code>#0055AA</code> Cobalt Blue</li>
+ 	<li>10 to 14°C - <code>#00AAAA</code> Tiffany Blue</li>
+ 	<li>15 to 19°C - <code>#005555</code> Midnight Green</li>
+ 	<li>20 to 24°C - <code>#AA5500</code> Windsor Tan</li>
+ 	<li>25°C and above - <code>#AA0000</code> Dark Candy Apple Red</li>
 </ul>
 <p>On top of the colour sits the usual data - time and a condition icon, city and temperature, conditions, pressure in millibars with its three hour trend, wind, rainfall, UV, and the day's step count and distance.</p>
 <p>The face also keeps a rolling history and compares now against roughly three hours ago. A fall of 4 hPa or more puts <strong>Storm Warning</strong> on the screen, 6 hPa or more escalates it to <strong>Severe Storm</strong>, and the watch buzzes once when a warning first appears.</p>
