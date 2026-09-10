@@ -1,5 +1,5 @@
 {
- "count": 233,
+ "count": 234,
  "years": 30,
  "span": [
   1997,
@@ -8,7 +8,7 @@
  "kinds": [
   {
    "kind": "Journal article",
-   "n": 90,
+   "n": 91,
    "label": "Journal articles"
   },
   {
@@ -84,6 +84,17 @@
      "publisher": "",
      "url": "https://doi.org/10.5281/zenodo.19389595",
      "doi": "10.5281/zenodo.19389595"
+    },
+    {
+     "kind": "Journal article",
+     "authors": "Hudson-Smith, A.",
+     "title": "Spatial Computing and the Phygital City: Towards Digital Habitation",
+     "year": "2026",
+     "venue": "Urban Planning",
+     "detail": "Urban Planning, vol. 11",
+     "publisher": "Cogitatio Press",
+     "url": "https://doi.org/10.17645/up.12412",
+     "doi": "10.17645/up.12412"
     }
    ]
   },
