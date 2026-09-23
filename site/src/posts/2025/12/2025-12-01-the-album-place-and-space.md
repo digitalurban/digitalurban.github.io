@@ -5,7 +5,7 @@ slug: "the-album-place-and-space"
 permalink: "/blog/2025/12/01/the-album-place-and-space/"
 author: "Andy"
 categories: ["Music"]
-tags: ["Music"]
+tags: ["Music", "album"]
 excerpt: "We are pleased to announce that the Album - Place and Space is now available across all streaming formats or to purchase via Apple Music / Amazon . Simply search for Digital Urban or Place and Space…"
 hero: "/assets/uploads/2025/12/Album_Cover_Place_Spacesm.jpg"
 ---

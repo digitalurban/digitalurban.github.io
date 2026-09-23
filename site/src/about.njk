@@ -50,6 +50,15 @@ permalink: /about/
           <span class="mono">{{ books.booklet.specs[0] }} &middot; {{ books.booklet.specs[1] }}</span>
         </a>
       </div>
+      <div class="about-card" id="albums">
+        <div class="mono" style="padding-bottom:14px">Albums</div>
+        {%- for a in albums %}
+        <a class="about-book" href="{{ a.url }}">
+          <span class="about-book__t">{{ a.title }}</span>
+          <span class="mono">{{ a.specs[0] }} &middot; {{ a.specs[1] }}</span>
+        </a>
+        {%- endfor %}
+      </div>
       <div class="about-card">
         <div class="mono" style="padding-bottom:14px">Elsewhere</div>
         <div class="rows">

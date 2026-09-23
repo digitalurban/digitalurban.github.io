@@ -84,7 +84,7 @@ permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pa
       <div class="figure"><span class="figure__n">{{ nowYear - firstYear }}</span><span class="figure__l">years</span></div>
       <a class="figure" href="/books/"><span class="figure__n">2</span><span class="figure__l">books</span></a>
       <a class="figure" href="/books/"><span class="figure__n">3</span><span class="figure__l">booklets</span></a>
-      <div class="figure"><span class="figure__n">1</span><span class="figure__l">album</span></div>
+      <a class="figure" href="/about/#albums"><span class="figure__n">{{ albums.length }}</span><span class="figure__l">album{% if albums.length != 1 %}s{% endif %}</span></a>
     </div>
     <div class="index">
       {% for t in collections.tagList | head(24) %}

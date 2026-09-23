@@ -62,7 +62,7 @@
   <div class="site-foot__in">
     <div class="site-foot__l">
       <span>&copy; {{ "" | year }} {{ site.author }} &middot; UCL</span>
-      <span class="site-foot__c">{{ collections.posts | length }} posts since {{ (collections.posts | last).date | date("yyyy") }} &middot; <a href="/about/#papers">{{ papers.count }} publications</a> &middot; <a href="/books/">2 books</a> &middot; <a href="/books/">3 booklets</a></span>
+      <span class="site-foot__c">{{ collections.posts | length }} posts since {{ (collections.posts | last).date | date("yyyy") }} &middot; <a href="/about/#papers">{{ papers.count }} publications</a> &middot; <a href="/books/">2 books</a> &middot; <a href="/books/">3 booklets</a> &middot; <a href="/about/#albums">{{ albums.length }} album{% if albums.length != 1 %}s{% endif %}</a></span>
     </div>
     <nav>
       <a href="{{ site.social.twitter }}">Twitter</a>
