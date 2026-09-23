@@ -11,7 +11,7 @@ tags:
   - album
   - papers
   - writing
-excerpt: Our second album, The Papers, is out on the 24th of September across all streaming platforms. Eight tracks, each one taken from a paper, listen to the track, read the academic paper.
+excerpt: Our second album, The Papers, is out on the 24th of September across all streaming platforms. Eight tracks, each one taken from a paper (lyrics by Hudson-Smith (2026), listen to the track, read the academic paper.
 hero: /assets/uploads/2026/09/the-papers-album-cover.jpg
 ---
 
@@ -31,5 +31,5 @@ hero: /assets/uploads/2026/09/the-papers-album-cover.jpg
  	<li><strong>Teleporting</strong> - <a href="/assets/uploads/2026/09/30-days-in-activeworlds.pdf">30 Days in ActiveWorlds: Community, Design and Terrorism in a Virtual World</a>, in <em>The Social Life of Avatars</em>, Springer, 2002</li>
  	<li><strong>The Garden City of the Future</strong> - <a href="https://digitalurban.org/books/">Digital Cities of Tomorrow &mdash; Planning in the Digital Age</a>, Palgrave Macmillan, available 2027</li>
 </ol>
-<p>If you like these papers then the full publication list, 234 of them, is over on the <a href="https://digitalurban.org/about/#papers">about page</a> <p>
+<p>Grab a beverage of choice, read the paper and listen to the track. If you like these papers then the full publication list is over on the <a href="https://digitalurban.org/about/#papers">about page</a> <p>
 <p>Andy</p>
