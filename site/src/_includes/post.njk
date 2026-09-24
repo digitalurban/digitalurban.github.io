@@ -58,23 +58,6 @@ layout: base.njk
   <section class="wrap">
     <div class="comments">
       <div>
-        <div class="mono mono--accent" style="padding-bottom:18px">Discussion</div>
-        <script src="https://giscus.app/client.js"
-          data-repo="{{ site.giscus.repo }}"
-          data-repo-id="{{ site.giscus.repoId }}"
-          data-category="{{ site.giscus.category }}"
-          data-category-id="{{ site.giscus.categoryId }}"
-          data-mapping="pathname"
-          data-strict="1"
-          data-reactions-enabled="1"
-          data-input-position="top"
-          data-theme="light"
-          data-lang="en"
-          crossorigin="anonymous"
-          async>
-        </script>
-      </div>
-      <div>
         <div class="mono" style="padding-bottom:12px">Recent</div>
         <div class="rows">
           {% for p in collections.posts | head(5) %}
