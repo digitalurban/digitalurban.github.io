@@ -15,7 +15,9 @@ excerpt: Our second album, The Papers, was released on the 24th of September acr
 hero: /assets/uploads/2026/09/the-papers-album-cover.jpg
 ---
 
-<p>Our second album, <strong>The Papers</strong>, was released on the 24th of September across all streaming platforms, or to purchase via the usual stores. Simply search for Digital Urban or The Papers on your platform of choice.</p>
+<p>Our second album, <strong>The Papers</strong>, was released on the 24th of September across all streaming platforms, or to purchase via the usual stores. Simply search for Digital Urban or The Papers on your platform of choice.
+
+</p>
 <figure class="wp-block-image size-large"><img src="/assets/uploads/2026/09/the-papers-album-cover.jpg" alt="The Papers, Digital Urban, album cover" />
 <figcaption>The Papers, Digital Urban Records, 2026.</figcaption></figure>
 <iframe class="spotify" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5SaxHiAQSaH0G1jhbebd58?utm_source=generator&amp;si=8f9967769e1a4cbb" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -904,5 +906,5 @@ I
 RTPI: Whats the planners role in a world of A I?
 </blockquote>
 </details>
-<p>Grab a beverage of choice, read the paper and listen to the track. If you like these papers then the full publication list is over on the <a href="https://digitalurban.org/about/#papers">about page</a>.</p>
+<p>Grab a beverage of choice, read the papers and listen to the tracks. If you like these papers then the full publication list is over on the <a href="https://digitalurban.org/about/#papers">about page</a>.</p>
 <p>Andy</p>
