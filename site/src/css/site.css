@@ -444,6 +444,24 @@ a.figure:hover .figure__n { color: var(--accent); }
 /* figures are flex columns, so an image would otherwise be stretched to the
    full column width while max-height caps its height, squashing the ratio */
 .prose figure > img { align-self: flex-start; }
+
+/* embedded album player */
+.prose iframe.spotify { display: block; width: 100%; border: 0; margin: 24px 0; }
+
+/* song words: smaller than a pull quote, with the full set folded away */
+.prose blockquote.lyric { font-size: 18px; line-height: 1.55; white-space: normal; }
+.prose details { margin-top: 14px; }
+.prose details > summary {
+  cursor: pointer;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--faint);
+}
+.prose details > summary:hover { color: var(--accent); }
+.prose details[open] > summary { margin-bottom: 14px; }
+.prose h3 + .mono { margin-top: 6px; color: var(--faint); }
 .prose .alignright img,
 .prose .alignleft img,
 .prose .wp-caption img { width: 100%; max-height: none; }
