@@ -750,7 +750,7 @@ Thats how it could be<br />
 Bring me the magnets<br />
 of the Town and Country
 <br /><br />
-Whats the planners role in a world of A I?
+RTPI: Whats the planners role in a world of A I?
 </blockquote>
 <details>
 <summary>Full words</summary>
@@ -785,7 +785,7 @@ T<br />
 P<br />
 I
 <br /><br />
-Whats the planners role in a world of A I?
+RTPI: Whats the planners role in a world of A I?
 <br /><br />
 R<br />
 T<br />
@@ -821,7 +821,7 @@ T<br />
 P<br />
 I
 <br /><br />
-Whats the planners role in a world of A I?
+RTPI: Whats the planners role in a world of A I?
 <br /><br />
 R<br />
 T<br />
@@ -840,7 +840,7 @@ T<br />
 P<br />
 I
 <br /><br />
-Whats the planners role in a world of A I?
+RTPI: Whats the planners role in a world of A I?
 <br /><br />
 R<br />
 T<br />
@@ -860,7 +860,7 @@ T<br />
 P<br />
 I
 <br /><br />
-Whats the planners role in a world of A I?
+RTPI: Whats the planners role in a world of A I?
 <br /><br />
 R<br />
 T<br />
@@ -901,7 +901,7 @@ T<br />
 P<br />
 I
 <br /><br />
-Whats the planners role in a world of A I?
+RTPI: Whats the planners role in a world of A I?
 </blockquote>
 </details>
 <p>Grab a beverage of choice, read the paper and listen to the track. If you like these papers then the full publication list is over on the <a href="https://digitalurban.org/about/#papers">about page</a>.</p>
