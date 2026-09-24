@@ -23,7 +23,7 @@ hero: /assets/uploads/2026/09/the-papers-album-cover.jpg
 <h2>The Track List</h2>
 <h3>1. The Phygital City <span class="mono track-time">4:32</span></h3>
 <p class="mono"><a href="https://doi.org/10.17645/up.12412">Spatial Computing and the Phygital City: Towards Digital Habitation</a>, <em>Urban Planning</em>, 2026</p>
-<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/28YFBN2SYmpOkAkizlMv5V?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/28YFBN2SYmpOkAkizlMv5V?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>The paper sets out three stages of urban digital transition. The smart city, with its sensors and dashboards, is well documented. Digital habitation, where physical geography stops being the primary frame of reference, gets the headlines. The stage in between, where physical and digital are experienced together and inseparably in the street, is the one planning has never named, and is arguably the one we are already living in.</p>
 <blockquote class="lyric">
 Living in the City<br />
@@ -185,7 +185,7 @@ Into our minds
 </details>
 <h3>2. Welcome to the Simulation <span class="mono track-time">4:04</span></h3>
 <p class="mono"><a href="https://doi.org/10.17645/up.v7i2.5893">The Future's Not What It Used To Be: Urban Wormholes, Simulation, Participation, and Planning in the Metaverse</a>, <em>Urban Planning</em>, 2022</p>
-<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/62ZxqNAqv89lAVJkhoQ0S3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/62ZxqNAqv89lAVJkhoQ0S3?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>Written as the editorial for a thematic issue on gaming, simulation and public participation, the argument is that planning has been slow to pick up each new media technology, and that the metaverse is the next one arriving. Games have spent years pushing at what virtual environments can be, yet the profession's reluctance to use them has less to do with what the tools can technically do and more with how planning understands what a tool is for. The conclusion is that planning should be leading the way into these environments rather than following them in.</p>
 <blockquote class="lyric">
 Jean Baudrillard, ninety ninety four
@@ -324,7 +324,7 @@ Or are we code
 </details>
 <h3>3. La Provenance <span class="mono track-time">3:22</span></h3>
 <p class="mono"><a href="https://doi.org/10.1007/s00779-011-0496-8">An Internet of Old Things as an Augmented Memory System</a>, <em>Personal and Ubiquitous Computing</em>, 2013, from the Tales of Things project</p>
-<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7DyyZBk2Gj2HvbSxnP6Y45?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7DyyZBk2Gj2HvbSxnP6Y45?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>Tales of Things was a tagging system built on QR codes and RFID that let an object carry its own story, readable and writable by whoever held it. Used as a technology probe with community groups, it turned out that almost any object could anchor a story worth telling and open onto what the paper calls a network of meaning. The catch is that those networks usually live with one owner alone, and are lost when that person is, which is the problem an augmented memory system is trying to solve.</p>
 <blockquote class="lyric">
 La provenance<br />
@@ -395,7 +395,7 @@ La provenance
 </details>
 <h3>4. Electroencephalogram (also known as EEG) <span class="mono track-time">3:38</span></h3>
 <p class="mono"><a href="https://doi.org/10.1098/rsos.240762">Ecological Brain: Reframing the Study of Human Behaviour and Cognition</a>, <em>Royal Society Open Science</em>, 2024</p>
-<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/34r2R9Adetr5oh3aUfGDDm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/34r2R9Adetr5oh3aUfGDDm?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>A case for doing neuroscience and cognitive science outside the laboratory. The paper sets out a framework that cycles between bringing the lab to the real world, recording behaviour and neural activity in actual streets and buildings, and bringing the real world back to the lab, where the environment can be manipulated and the findings tested. It is interdisciplinary by design, pulling in the sciences concerned with the natural, built and virtual environment, and it is the theoretical ground under the older work of walking the city wearing an EEG headset.</p>
 <blockquote class="lyric">
 Put on the headset<br />
@@ -474,7 +474,7 @@ A way to read what it means to be you and me
 </details>
 <h3>5. Tagging and Tracking <span class="mono track-time">2:55</span></h3>
 <p class="mono"><a href="https://doi.org/10.1002/ad.1700">Tracking, Tagging and Scanning the City</a>, <em>Architectural Design</em>, 2014</p>
-<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2fT6GpqAlCNdDrTGMIAGfh?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2fT6GpqAlCNdDrTGMIAGfh?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>Written as social media and building information modelling were piling up data faster than anyone knew what to do with it, all of it trackable, taggable and scannable. The argument is that buildings and cities had quietly become portals for information, and that wherever we go we are increasingly watched, logged, tracked and tagged.</p>
 <blockquote class="lyric">
 Tagging and tracking<br />
@@ -572,7 +572,7 @@ In the City?
 </details>
 <h3>6. Design Fiction <span class="mono track-time">2:44</span></h3>
 <p class="mono"><a href="https://doi.org/10.1145/2851581.2892574">Design Fiction: How to Build a Voight Kampff Machine</a>, <em>CHI</em>, 2016</p>
-<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5pVpAyPNuDapIrzSxaxYFz?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5pVpAyPNuDapIrzSxaxYFz?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>Design fiction sits inside the wider family of speculative design approaches, and what marks it out is world building. The paper asks whether there is value in constructing a fictional research world as a way of thinking about future interactions, then builds one in which algorithms for detecting empathy have become a major part of how people communicate. Blade Runner supplies the starting point, the question being what a plausible world would have to look like for building a Voight-Kampff machine to be a sensible thing to do.</p>
 <blockquote class="lyric">
 Welcome to the future<br />
@@ -665,7 +665,7 @@ Leads to revelations
 </details>
 <h3>7. Teleporting <span class="mono track-time">3:22</span></h3>
 <p class="mono"><a href="/assets/uploads/2026/09/30-days-in-activeworlds.pdf">30 Days in ActiveWorlds: Community, Design and Terrorism in a Virtual World</a>, in <em>The Social Life of Avatars</em>, Springer, 2002</p>
-<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5SAbNRRiAGiADqOOeHEb09?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5SAbNRRiAGiADqOOeHEb09?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>A world was opened on a Windows 95 machine in the corner of the office and left without rules, with every object placed and every word spoken logged for thirty days. What followed was a community, a building competition, a police force voted in after a user dropped 85,000 objects overnight to crash the server, threats from someone calling himself the High Commander of the AW Terrorist Group, and carols sung around a virtual Christmas tree. By Day 30 the world held 27,699 objects built by 49 registered users. Then everyone left, and it became a ghost town.</p>
 <blockquote class="lyric">
 We were the architects of a new world<br />
@@ -740,7 +740,7 @@ Teleporting
 </details>
 <h3>8. The Garden City of the Future <span class="mono track-time">4:22</span></h3>
 <p class="mono"><a href="https://digitalurban.org/books/">Digital Cities of Tomorrow &mdash; Planning in the Digital Age</a>, Palgrave Macmillan, available 2027</p>
-<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4kwvjqSxrNVQpJNjNdf7tL?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe class="spotify spotify--track" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4kwvjqSxrNVQpJNjNdf7tL?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>Cities are no longer simply planned and built. They are sensed, simulated and increasingly co-produced by the digital systems running through them. The book charts that shift, from the analogue traditions of twentieth century planning, through the smart city era, to a present in which data, analytics and artificial intelligence shape how urban futures are imagined and decided, treating digital planning not as a technical upgrade but as a reordering of how cities are understood and governed.</p>
 <blockquote class="lyric">
 Ebenezer Howard,<br />

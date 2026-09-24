@@ -450,7 +450,7 @@ a.figure:hover .figure__n { color: var(--accent); }
 .prose iframe.spotify--track { margin: 16px 0 26px; }
 
 /* song words: smaller than a pull quote, with the full set folded away */
-.prose blockquote.lyric { font-size: 18px; line-height: 1.55; white-space: normal; margin-top: 30px; }
+.prose blockquote.lyric { font-size: 18px; line-height: 1.55; white-space: normal; margin-top: 48px; }
 .prose details { margin-top: 14px; }
 .prose details > summary {
   cursor: pointer;
