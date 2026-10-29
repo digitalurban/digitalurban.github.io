@@ -1,0 +1,151 @@
+======================================================================
+1. REFERENCES TO THE OLD WORDPRESS HOST
+======================================================================
+89 references across 60 of 1863 posts
+  internal link      88
+  wp-content asset   1
+
+First 25 posts affected:
+  src/posts/2013/04/2013-04-03-weatherdata.md
+      http://www.digitalurban.org/weather
+      http://www.digitalurban.org
+  src/posts/2013/04/2013-04-04-autodesk-showreel-2013-2.md
+      http://www.digitalurban.org/masters
+      https://www.digitalurban.org/wp-content/uploads/2013/04/Screen-Shot-2013-04-04-at-11.00.05-1.png
+  src/posts/2013/04/2013-04-05-mega-city-one-greeble-and-after-effects-2.md
+      http://www.digitalurban.org/2008/03/greeble-3d-city-tutorial-1-skyscraper-1.html
+      http://www.digitalurban.org/2008/03/greeble-3d-city-tutorial-2-cityscape.html
+  src/posts/2013/04/2013-04-08-timelapsingwarping-in-new-york-city.md
+      http://www.digitalurban.org/category/city-timelapses
+  src/posts/2013/04/2013-04-09-3dmax-2014-populate-rapid-crowds-in-3d-scenes-2.md
+      http://www.digitalurban.org/2012/02/data-space-agent-based-models-sketchup.html
+      http://www.digitalurban.org/masters
+  src/posts/2013/04/2013-04-09-softimage-2.md
+      http://www.digitalurban.org/2013/04/3dmax-2014-populate-rapid-crowds-in-3d-scenes.html
+  src/posts/2013/04/2013-04-20-trail-rending-of-agents-with-navmesh-physics-unity-and-cityengine.md
+      http://www.digitalurban.org/2013/04/shortest-path-modelling-and-navmesh-in-unity-and-cityengine.html
+  src/posts/2013/04/2013-04-26-urban-ball-cityengine-unity-and-agent-based-modelling-on-the-ipad.md
+      http://www.digitalurban.org/2013/04/trail-rending-of-agents-with-navmesh-physics-unity-and-cityengine.html
+      http://www.digitalurban.org/2013/04/augmented-reality-city-table-top-unity-cityengine-and-vufoira.html
+      http://www.digitalurban.org/2013/04/shortest-path-modelling-and-navmesh-in-unity-and-cityengine.html
+  src/posts/2013/05/2013-05-01-police-agent-city-ball-unitynavmesh-and-cityengine.md
+      http://www.digitalurban.org/masters
+  src/posts/2013/05/2013-05-23-live-london-weather-dashboard-colours.md
+      http://www.digitalurban.org/weather
+  src/posts/2013/09/2013-09-09-pedagogy-meets-big-data-and-bim-big-data-sensing-and-augmented-reality-paper-and-key-note-presentation-2.md
+      http://www.digitalurban.org
+  src/posts/2013/06/2013-06-12-ucl-quad-procedural-city-and-lumion.md
+      http://www.digitalurban.org/2008/11/back-to-oblivion-final-import-movie.html
+      http://www.digitalurban.org/2012/08/getting-started-with-simulations-in-3d-max-greeble-and-massfx.html
+  src/posts/2014/03/2014-03-02-linking-a-1940s-radio-to-the-internet-of-things.md
+      http://www.digitalurban.org/2014/02/iftt-netatmo-philips-hue-linking-data-to-lighting.html
+  src/posts/2014/02/2014-02-05-introducing-the-msc-and-mres-smart-cities-at-the-bartlett-centre-for-advanced-spatial-analysis.md
+      http://www.digitalurban.org/wp-admin/The
+  src/posts/2022/06/2022-06-14-open-gauges-physical-data-display-devices.md
+      https://www.digitalurban.org/blog/2022/05/31/owmbarometer/
+  src/posts/2025/07/2025-07-16-vibe-coding-from-ios-apps-to-an-asteroid-clock-and-3d-cities.md
+      https://www.digitalurban.org/
+  src/posts/2025/12/2025-12-01-the-album-place-and-space.md
+      https://www.digitalurban.org/blog/2025/10/27/cities-in-the-metaverse-book/
+  src/posts/2024/07/2024-07-15-turning-any-device-into-a-literary-clock-with-mqtt.md
+      https://www.digitalurban.org/blog/2020/04/10/the/
+  src/posts/2012/04/2012-04-27-london-data-table.md
+      http://www.digitalurban.org/2012/04/casa-smart-cities-conference-report.html
+  src/posts/2012/02/2012-02-02-data-space-agent-based-models-sketchup.md
+      http://www.digitalurban.org/2010/05/5-movies-on-particles-agents-and.html
+  src/posts/2012/02/2012-02-09-cityengine-esri-and-lumion-first-look.md
+      http://www.digitalurban.org/2012/01/london-twitter-data-as-landscape.html
+  src/posts/2012/02/2012-02-11-15-minutes-with-cityengine-and-lumion.md
+      http://www.digitalurban.org/2012/02/cityengine-esri-and-lumion-first-look.html
+  src/posts/2012/02/2012-02-13-new-york-taxis-origins-vs-destination.md
+      http://www.digitalurban.org/2012/02/taxi-data-viz-of-10000-taxis-in.html
+  src/posts/2012/02/2012-02-25-greeble-massfx-and-lumion-bouncing.md
+      http://www.digitalurban.org/2009/05/tutorial-reactor-basics-3d-max-bouncing.html
+  src/posts/2012/07/2012-07-11-2-fully-funded-phd-studentships-at-casa.md
+      http://www.digitalurban.org/
+      http://www.digitalurban.org
+
+======================================================================
+2. LOCAL ASSET REFERENCES WITH NO FILE ON DISK
+======================================================================
+1399 distinct local asset refs, 22 missing
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2022/04/AllSkyRender-1024x426.jpg
+          in src/posts/2022/05/2022-05-01-allsky.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2022/03/startrails-20220327-1024x767.jpeg
+          in src/posts/2022/05/2022-05-01-allsky.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2022/04/allskytopdown1-1024x427.jpg
+          in src/posts/2022/05/2022-05-01-allsky.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2022/04/allskyfront1-692x1024.jpg
+          in src/posts/2022/05/2022-05-01-allsky.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2022/04/AllskyvsIptimelapse-1024x388.jpg
+          in src/posts/2022/05/2022-05-01-allsky.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2022/04/homeassistantallsky-1024x513.jpg
+          in src/posts/2022/05/2022-05-01-allsky.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2022/05/Owmbaroplain-79x1024.png
+          in src/posts/2022/05/2022-05-31-owmbarometer.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2021/10/techdraw3-1024x724.png
+          in src/posts/2022/06/2022-06-14-open-gauges-physical-data-display-devices.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2023/10/LightSaberTitle-1024x497.jpg
+          in src/posts/2023/11/2023-11-09-lightsaber.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2023/11/plasma-stick-2040w-3_10228028-64a8-4dad-ade7-07b88aa5cb57_1500x1500_crop_center-e1699438729378-1024x358.webp
+          in src/posts/2023/11/2023-11-09-lightsaber.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2023/11/Screenshot-2023-11-03-at-11.11.46-1024x258.png
+          in src/posts/2023/11/2023-11-09-lightsaber.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2023/11/WindNeoPixelLightSaberTube_2023-Nov-08_03-20-52PM-000_CustomizedView14012120140-1024x168.png
+          in src/posts/2023/11/2023-11-09-lightsaber.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2023/11/TM_main-768x1024.jpg
+          in src/posts/2023/12/2023-12-05-tellus-mater-an-ai-that-thinks-its-mother-earth.md
+  MISSING /assets/uploads/external/connected-environments.org/wp-content/uploads/2023/11/8A330E79-6868-4058-AB6A-099F4633F076_1_105_c.jpeg
+          in src/posts/2023/12/2023-12-05-tellus-mater-an-ai-that-thinks-its-mother-earth.md
+  MISSING /assets/uploads/external/www.casa.ucl.ac.uk/andy/images/flickr.jpg
+          in src/posts/2006/12/2006-12-06-digital-urban-flickr-group.md
+  MISSING /assets/uploads/external/1.bp.blogspot.com/_ADwvfqkxChw/RyBtLReNubI/AAAAAAAAAwY/73P174Dlplw/s320/Po4.jpg
+          in src/posts/2007/10/2007-10-25-google-earth-photooverlay-download-and_25.md
+  MISSING /assets/uploads/external/1.bp.blogspot.com/_ADwv_fqkxChw/RyGw_BeNuiI/AAAAAAAAAxo/cWdlm5EbaNc/s400/Potext2.jpg
+          in src/posts/2007/10/2007-10-25-google-earth-photooverlay-download-and_25.md
+  MISSING /assets/uploads/external/farm4.static.flickr.com/3441/3933318685_4254e7250b.jpg
+          in src/posts/2010/08/2010-08-11-be2camp-birmingham-thursday-august-12th.md
+  MISSING /assets/uploads/external/gemma.blogweb.casa.ucl.ac.uk/files/2011/11/Screen-Shot-2011-11-10-at-10.04.30.png
+          in src/posts/2011/11/2011-11-29-gemma-early-beta.md
+  MISSING /assets/uploads/external/gemma.blogweb.casa.ucl.ac.uk/files/2011/11/gemma_london.png
+          in src/posts/2011/11/2011-11-29-gemma-early-beta.md
+  MISSING /assets/uploads/external/gemma.blogweb.casa.ucl.ac.uk/files/2011/11/iPhone1.png
+          in src/posts/2011/11/2011-11-29-gemma-early-beta.md
+  MISSING /assets/uploads/external/www.casa.ucl.ac.uk/news/images/tardis.jpg
+          in src/posts/2005/04/2005-04-27-research-update.md
+
+======================================================================
+3. REDIRECTS FROM THE DEDUPE
+======================================================================
+2474 redirects recorded in src/_data/redirects.json
+  NOT referenced by any template - the redirects are
+  recorded but nothing serves them yet.
+
+======================================================================
+4. BUILT OUTPUT
+======================================================================
+  feed.xml     ok
+  sitemap.xml  ok
+  search.json  ok
+  robots.txt   ok
+  MISSING  CNAME
+  2860 html pages built
+
+======================================================================
+WHAT TO DO
+======================================================================
+
+If section 1 shows wp-content assets: those images live on the WordPress box. If
+you shut it down they vanish. Either copy them into ../assets and rewrite the
+references, or keep the old host serving files. Send me the report and I will
+write the rewrite script.
+
+If section 1 shows internal links only: harmless while both hosts answer, but
+worth rewriting to relative paths so the pages stop depending on the domain.
+
+If section 2 lists missing files: those are already broken in the new build and
+have nothing to do with DNS. Fix before cutover so you are not debugging two
+things at once.
+
+Section 3: recorded-but-unwired redirects mean the 576 deleted duplicate URLs
+currently 404. Tell me and I will add the redirect pages to the build.
