@@ -71,3 +71,5 @@ hero: /assets/uploads/2026/10/longmarsh-viewer-overview.jpg
 <p>The viewer is independent and unofficial. It is based on documents published in October 2026, early in the consultation, and the scheme will change. Please check anything important against the original documents, which are all linked from the viewer, and see its Disclaimer tab.</p>
 
 <p><a href="https://digitalurban.org/longmarsh-viewer/" target="_blank" rel="noopener"><strong>Open the Longmarsh Data Centre/Solar Farm Viewer</strong></a></p>
+
+<p><a href="https://www.change.org/p/stop-longmarsh-energy-protect-rural-west-norfolk-from-4-700-acre-data-centre-project" target="_blank" rel="noopener"><strong>Sign the Petition</strong></a></p>
