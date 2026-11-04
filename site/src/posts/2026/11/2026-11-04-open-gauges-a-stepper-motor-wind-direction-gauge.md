@@ -12,7 +12,7 @@ hero: "/assets/uploads/2026/11/windgauge-stepper-hero.jpg"
 
 <p>Open Gauges started in October 2021 as part of the Sensor Data Visualisation module (CASA0019) in the MSc in Connected Environments at CASA, UCL. The idea, which Valerio Signorelli and I set out in the <a href="/blog/2022/06/14/open-gauges-physical-data-display-devices/">original post</a>, was simple: open-source data gauges that anyone can print, wire up and point at a live data feed, whether that is wind speed, air pressure, air quality or energy. The <a href="https://github.com/ucl-casa-ce/Open-Gauges" target="_blank" rel="noopener">Open Gauges GitHub</a> holds the code, the print files and the dial graphics, and it has grown since then to include a <a href="/blog/2022/05/31/owmbarometer/">NeoPixel barometer</a>, a voltmeter gauge, the <a href="/blog/2023/11/09/lightsaber/">lightsaber wind speed tube</a>, a <a href="/blog/2025/11/12/ships-lamp-wind-speed-gauge/">ship's lamp</a> and a <a href="/blog/2025/11/13/stepper-motor-linear-data-gauge/">one-metre linear stepper gauge</a>.</p>
 
-<p>The latest addition is a wind direction dial, and it changes how the dial-based gauges move.</p>
+<p>The latest addition is a wind direction dial, its the first one made with input from Claude via Fusion (via our own human made tutorial on how to make data guages) and it changes how the dial-based gauges move.</p>
 
 <figure class="wp-block-image size-large"><img src="/assets/uploads/2026/11/windgauge-stepper-hero.jpg" alt="The stepper motor wind direction gauge, a 205 mm black dial with a red pointer at 300 degrees" />
 <figcaption>The new wind direction gauge: 205 mm across, with a screw-on bezel and an acrylic window.</figcaption></figure>
