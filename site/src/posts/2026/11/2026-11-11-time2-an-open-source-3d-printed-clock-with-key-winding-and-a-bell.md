@@ -7,7 +7,7 @@ author: "Andy"
 categories: ["Making", "3D Printing"]
 tags: ["TIME", "TIME2", "clock", "horology", "3D Printing", "Fusion 360", "Printables"]
 excerpt: "A year on from TIME, our open source 3D printed clock gets a sequel: wound through the dial with a key, set while it runs, and with an hourly bell you can tune to the minute."
-hero: "/assets/uploads/2026/11/time2-fusion.jpg"
+hero: "/assets/uploads/2026/11/time2-hero-16x10.jpg"
 ---
 
 <p>In August 2025 we released <a href="/blog/2025/08/05/time-an-open-source-3d-printed-clock/">TIME</a>, a fully 3D printed, weight-driven pendulum clock built from first principles. It has been ticking on the wall ever since, and living with a clock teaches you things that designing one never does. The one-second tick and easy build was the aim and the clock has been happily running for a year. Winding it, setting it and getting the bell to ring at the right moment were, however, another story.</p>
