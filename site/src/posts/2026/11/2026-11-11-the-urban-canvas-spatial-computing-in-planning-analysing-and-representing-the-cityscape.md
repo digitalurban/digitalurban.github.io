@@ -51,7 +51,7 @@ hero: /assets/uploads/2026/11/urban-canvas-cover.jpg
 
 <h2>A Canvas, Not a Surface</h2>
 
-<p>Taken together, the papers move across scales and methods, from a coastal town in Lancashire to industrial enclaves in India and Taiwan, from headsets to tabletop games to sound. What they share is a view of the city as a social, spatial and infrastructural environment rather than a neutral surface to paint data on. The canvas pushes back. That, perhaps, is the point of the title.</p>
+<p>Taken together, the papers move across scales and methods, from a coastal town in Lancashire to industrial enclaves in India and Taiwan, from headsets to tabletop games to sound. What they share is a view of the city as a social, spatial and infrastructural environment rather than a neutral surface to paint data on. There is a new canvas of the city emerging....</p>
 
 <p>Our thanks to all the authors and reviewers, and to the team at Cogitatio. The issue is dedicated to the memory of Heejung Kwon.</p>
 
