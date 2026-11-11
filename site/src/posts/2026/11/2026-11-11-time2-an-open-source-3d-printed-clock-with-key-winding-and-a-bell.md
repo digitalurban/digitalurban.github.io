@@ -14,7 +14,7 @@ hero: "/assets/uploads/2026/11/time2-hero-16x10.jpg"
 
 <p>So TIME has a sequel. <strong>TIME2</strong> keeps the heart of the original but rethinks the winding and the setting of the bell. As before, it is open source, with every part ready to print and a full step-by-step build guide. There is also an upgrade pack, so if you already have a TIME on your wall you only need to print a handful of new parts. Both are on <a href="https://www.printables.com/model/1909422-time2-a-3d-printed-weight-driven-clock-with-key-wi" target="_blank" rel="noopener">Printables</a>.</p>
 
-<figure class="wp-block-image size-large"><img src="/assets/uploads/2026/11/time2-photo-front.jpg" alt="TIME2 on the wall: black and white printed gears on a pine board, the dial on the left, the bell at the top right and the pendulum rod hanging down" />
+<figure class="wp-block-image size-large"><img src="/assets/uploads/2026/11/time2-hero-16x10.jpg" alt="TIME2 on the wall: black and white printed gears on a pine board, the dial on the left, the bell at the top right and the pendulum rod hanging down" />
 <figcaption>TIME2 on the wall: the going train runs along the back plate, with the dial at one end, the bell at the top and the key peg on the board below.</figcaption></figure>
 
 <blockquote><p>The aim was not a new clock, but the clock TIME should have been once I had lived with it for a year.</p></blockquote>
