@@ -10,9 +10,9 @@ excerpt: "A year on from TIME, our open source 3D printed clock gets a sequel: w
 hero: "/assets/uploads/2026/11/time2-photo-front.jpg"
 ---
 
-<p>In August 2025 we released <a href="/blog/2025/08/05/time-an-open-source-3d-printed-clock/">TIME</a>, a fully 3D printed, weight-driven pendulum clock built from first principles. It has been ticking on the wall ever since, and living with a clock teaches you things that designing one never does. The one-second tick is still the best sound in the house. Winding it, setting it and getting the bell to ring at the right moment were another story.</p>
+<p>In August 2025 we released <a href="/blog/2025/08/05/time-an-open-source-3d-printed-clock/">TIME</a>, a fully 3D printed, weight-driven pendulum clock built from first principles. It has been ticking on the wall ever since, and living with a clock teaches you things that designing one never does. The one-second tick and easy build was the aim and the clock has been happily running for a year. Winding it, setting it and getting the bell to ring at the right moment were, however, another story.</p>
 
-<p>So TIME has a sequel. <strong>TIME2</strong> keeps the heart of the original and rethinks everything around it. As before, it is open source, with every part ready to print and a full step-by-step build guide. There is also an upgrade pack, so if you already have a TIME on your wall you only need to print a handful of new parts. Both are on <a href="https://www.printables.com/model/1909422-time2-a-3d-printed-weight-driven-clock-with-key-wi" target="_blank" rel="noopener">Printables</a>.</p>
+<p>So TIME has a sequel. <strong>TIME2</strong> keeps the heart of the original but rethinks the winding and the setting of the bell. As before, it is open source, with every part ready to print and a full step-by-step build guide. There is also an upgrade pack, so if you already have a TIME on your wall you only need to print a handful of new parts. Both are on <a href="https://www.printables.com/model/1909422-time2-a-3d-printed-weight-driven-clock-with-key-wi" target="_blank" rel="noopener">Printables</a>.</p>
 
 <figure class="wp-block-image size-large"><img src="/assets/uploads/2026/11/time2-photo-front.jpg" alt="TIME2 on the wall: black and white printed gears on a pine board, the dial on the left, the bell at the top right and the pendulum rod hanging down" />
 <figcaption>TIME2 on the wall: the going train runs along the back plate, with the dial at one end, the bell at the top and the key peg on the board below.</figcaption></figure>
@@ -58,7 +58,7 @@ hero: "/assets/uploads/2026/11/time2-photo-front.jpg"
 <li>A 0.95 m fall of the weight is about <strong>14 turns</strong> of the key, or <strong>72 hours</strong>.</li>
 </ul>
 
-<p>That is three days a wind, from a 2.5 kg weight. The weight is a neoprene dumbbell inside a printed shell with a screw-on lid, so it looks the part. There is also a small key peg for the board: a dummy winding square that the key hangs on when it is not in use.</p>
+<p>That is three days a wind, from a 2.5 kg weight. The weight is a dumbbell inside a printed shell with a screw-on lid, so it looks the part. There is also a small key peg for the board: a dummy winding square that the key hangs on when it is not in use.</p>
 
 <h2>Setting the Hands While It Runs</h2>
 
@@ -69,7 +69,7 @@ hero: "/assets/uploads/2026/11/time2-photo-front.jpg"
 
 <h2>A Bell You Can Tune</h2>
 
-<p>The bell is a <strong>passing strike</strong>: one blow each hour, with no count. Behind the centre wheel sits a keyed collar, and on that collar a lifting cam that grips by friction. Once an hour the cam lifts the hammer tail and lets it drop onto an 85 mm counter bell.</p>
+<p>The bell is a <strong>passing strike</strong>: one ring each hour. Behind the centre wheel sits a keyed collar, and on that collar a lifting cam that grips by friction. Once an hour the cam lifts the hammer tail and lets it drop onto an 85 mm counter bell.</p>
 
 <figure class="wp-block-image size-large"><img src="/assets/uploads/2026/11/time2-lifting-cam.jpg" alt="The back of the centre wheel showing the keyed collar and the lifting cam with its grip rim" />
 <figcaption>The centre wheel from behind: the keyed collar and the lifting cam, with its scalloped rim for turning it by hand.</figcaption></figure>
@@ -90,9 +90,6 @@ hero: "/assets/uploads/2026/11/time2-photo-front.jpg"
 
 <p>TIME2 needs one bearing for the clock itself, in the anchor. The centre arbor, which turns only once an hour, now runs in two printed PETG bushes instead of ball bearings. That costs about 3% more drive, which the weight easily covers, and the bearings can still go back in the same seats if you prefer them.</p>
 
-<h2>Designing with AI, Honestly</h2>
-
-<p>Much of this redesign was done with Claude connected directly to the Fusion 360 model: checking clashes, rolling gears through their mesh, exporting the STLs and drafting the guides. It is remarkably good at the tedious parts. It is also confidently wrong at times. At one point it had the weight on the wrong side, which ran the hands anticlockwise. Every change was printed and tested on my own clock before it went into the files.</p>
 
 <figure class="wp-block-image size-large"><img src="/assets/uploads/2026/11/time2-fusion.jpg" alt="The TIME2 model in Fusion 360, with the weight hanging below the board" />
 <figcaption>The full TIME2 model in Fusion 360, including the printed weight shell.</figcaption></figure>
